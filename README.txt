@@ -10,5 +10,7 @@ Features:
 - Responsive layout with media queries
 - Accessibility features (alt text, ARIA, keyboard nav)
 
+Access the app on https://gmthiru.github.io/finance-info-web-app/
+
 Author: Gracie Thiru 673899
 Date: August 2025
